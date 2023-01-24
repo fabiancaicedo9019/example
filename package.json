@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",  
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefedesarrollo/example.git"
+  },
+  "author": "Fabian Caicedo <jefedesarrollo@talentum.edu.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefedesarrollo/example/issues"
+  },
+  "homepage": "https://github.com/jefedesarrollo/example#readme"
+}
